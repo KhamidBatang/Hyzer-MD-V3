@@ -6,14 +6,14 @@ global.prems = []
 //=============『 Info Owner 』============== //
 global.nameowner = 'Khamid Official'
 global.numberowner = '6281947707409'
-global.instagram = 'https://instagram.com/hyzer_stfu'
+global.instagram = 'https://instagram.com/khamid_serba_ada'
 global.github = 'https://github.com/Hyzerr'
 global.dana = ''
 global.pulsa = '6281947707409'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Yuno Gasai Bot'
+global.namebot = 'Reox Bot'
 global.gc = 'bit.ly/AnyaBot-Group'
 global.web = 'https://github.com/Hyzerr' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'

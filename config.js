@@ -14,7 +14,7 @@ global.gopay = ''
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Rex Bot'
-global.gc = 'bit.ly/AnyaBot-Group'
+global.gc = 'https://chat.whatsapp.com/DojCFswvX2nGMtK2vCrjOz'
 global.web = 'https://github.com/KhamidBatang' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 

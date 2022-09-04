@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Khamid Official'
+global.author = '©︶꒷꒦乂REX-MD乂꒦꒷︶'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
